@@ -75,7 +75,7 @@
 	        "elementType": "all",
 	        "stylers": [
 	            {
-	                "color": "#51b8f1"
+	                "color": "#3967c1"
 	            },
 	            {
 	                "visibility": "on"

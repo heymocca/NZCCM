@@ -2,7 +2,7 @@
 =============================================================
 [ThemeColor Stylesheet]
 
-Color Code:   #51b8f1
+Color Code:   #3967c1
 Version:      1.0
 Created:      10.07.2016
 Primary use:  Health & Medical HTML Template
@@ -63,7 +63,7 @@ theme.
 .scroll-to-top:hover,
 .welcome-content .welcome-box .title span,
 .welcome-content .timetable-box .title span {
-    color: #51b8f1;
+    color: #3967c1;
 }
 
 
@@ -74,7 +74,7 @@ theme.
 */
 
 .color-theme {
-    color: #51b8f1 !important;
+    color: #3967c1 !important;
 }
 
 
@@ -105,7 +105,7 @@ theme.
 .ui-state-highlight,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
-    background: #51b8f1;
+    background: #3967c1;
 }
 
 
@@ -150,7 +150,7 @@ theme.
 .scroll-to-top,
 .welcome-content .timetable-box .title:before,
 .features-style4 .feature-box:hover {
-    background-color: #51b8f1;
+    background-color: #3967c1;
 }
 
 
@@ -162,7 +162,7 @@ theme.
 
 .bgcolor-theme,
 .tp-bullets.preview4 .bullet {
-    background: #51b8f1 !important;
+    background: #3967c1 !important;
 }
 
 /*
@@ -230,7 +230,7 @@ theme.
     background-color: rgba(81, 184, 241, 0.95);
 }
 .theme-overlay.overlay-theme:before {
-    background-color: rgba(81, 184, 241, 0.96);
+    background-color: rgba(57, 103, 193, 0.96);
 }
 
 
@@ -276,7 +276,7 @@ theme.
 .testimonial-post:hover,
 .testimonial-post:hover .thumb img,
 .welcome-content .welcome-box {
-    border-color: #51b8f1;
+    border-color: #3967c1;
 }
 
 
@@ -288,7 +288,7 @@ theme.
 
 .tp-bullets.preview4 .bullet:hover,
 .tp-bullets.preview4 .bullet.selected {
-    border-color:#51b8f1 !important;
+    border-color:#3967c1 !important;
 }
 
 .home-slider .tp-bullets.preview4 .bullet {
@@ -305,7 +305,7 @@ theme.
 .header-top-widget.headerwidget-style2 .header-widget .iconbox-widget .box-contenet .title,
 .service-post:after,
 .accordion-style .accordion-box .acc-title.active {
-    border-bottom-color: #51b8f1;
+    border-bottom-color: #3967c1;
 }
 
 
@@ -316,7 +316,7 @@ theme.
 */
 
 .scroll-to-top:hover {
-    box-shadow: 0 0 5px 0 #51b8f1;
+    box-shadow: 0 0 5px 0 #3967c1;
 }
 
 
@@ -329,7 +329,7 @@ theme.
 @media only screen and (max-width: 768px) {
     .mega-menu .menuzord-menu ul.dropdown,
     .menuzord-responsive .menuzord-menu ul.dropdown li ul.dropdown {
-        background: #51b8f1;
+        background: #3967c1;
     }
     .mega-menu .menuzord-menu > li.active > a  {
         background: #61a107;
